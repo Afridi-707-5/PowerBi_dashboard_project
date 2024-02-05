@@ -1,2 +1,2 @@
-# Power-BI-
+# PowerBi_dashboard_project
 Author-afridi
